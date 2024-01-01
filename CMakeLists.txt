@@ -16,7 +16,16 @@
 
 cmake_minimum_required(VERSION 3.3.0)
 
-project(KeePassXC)
+
+project(keepassxc-develop)
+include(FetchContent)
+FetchContent_Declare(
+  googletest
+  URL https://github.com/google/googletest/archive/release-1.10.0.tar.gz
+)
+set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)  # Keep the MSVCRT library consistent
+FetchContent_MakeAvailable(googletest)
+
 set(APP_ID "org.keepassxc.${PROJECT_NAME}")
 
 if(NOT CMAKE_BUILD_TYPE)

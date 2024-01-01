@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\db6d542c8b64bdce3faf0c7431a1c1ab\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\e361eb143fbb0b72a08ef8db4a729b4b\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\10969e886d9ac5829e417eb0dec64c9a\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\yousef\Desktop\keepassxc-develop\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2124678E-2851-304B-8807-C8EFBDD06B6D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
